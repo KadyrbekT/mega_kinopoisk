@@ -1,5 +1,4 @@
 import 'package:mega_kinopoisk/features/movie_search/data/mappers/media_mapper.dart';
-
 import '../../domain/entities/episode.dart';
 import '../models/episodes/episode_dto.dart';
 
